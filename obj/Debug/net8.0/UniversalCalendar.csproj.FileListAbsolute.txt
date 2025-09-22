@@ -1,0 +1,14 @@
+C:\Users\Nikita001\Desktop\UniversalCalendar\bin\Debug\net8.0\UniversalCalendar.exe
+C:\Users\Nikita001\Desktop\UniversalCalendar\bin\Debug\net8.0\UniversalCalendar.deps.json
+C:\Users\Nikita001\Desktop\UniversalCalendar\bin\Debug\net8.0\UniversalCalendar.runtimeconfig.json
+C:\Users\Nikita001\Desktop\UniversalCalendar\bin\Debug\net8.0\UniversalCalendar.dll
+C:\Users\Nikita001\Desktop\UniversalCalendar\bin\Debug\net8.0\UniversalCalendar.pdb
+C:\Users\Nikita001\Desktop\UniversalCalendar\obj\Debug\net8.0\UniversalCalendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita001\Desktop\UniversalCalendar\obj\Debug\net8.0\UniversalCalendar.AssemblyInfoInputs.cache
+C:\Users\Nikita001\Desktop\UniversalCalendar\obj\Debug\net8.0\UniversalCalendar.AssemblyInfo.cs
+C:\Users\Nikita001\Desktop\UniversalCalendar\obj\Debug\net8.0\UniversalCalendar.csproj.CoreCompileInputs.cache
+C:\Users\Nikita001\Desktop\UniversalCalendar\obj\Debug\net8.0\UniversalCalendar.dll
+C:\Users\Nikita001\Desktop\UniversalCalendar\obj\Debug\net8.0\refint\UniversalCalendar.dll
+C:\Users\Nikita001\Desktop\UniversalCalendar\obj\Debug\net8.0\UniversalCalendar.pdb
+C:\Users\Nikita001\Desktop\UniversalCalendar\obj\Debug\net8.0\UniversalCalendar.genruntimeconfig.cache
+C:\Users\Nikita001\Desktop\UniversalCalendar\obj\Debug\net8.0\ref\UniversalCalendar.dll
